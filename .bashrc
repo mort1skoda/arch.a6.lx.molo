@@ -54,7 +54,7 @@ echo "    TERM     =$TERM"
 
 #--- expand and source aliases --------------------------{{{
 shopt -s expand_aliases
-source ~/.bash_aliases
+#source ~/.bash_aliases
 #----------------------------------------------------}}}
 
 
