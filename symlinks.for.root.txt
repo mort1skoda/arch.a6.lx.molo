@@ -1,0 +1,5 @@
+ln -s /root/.bashrc /home/m/.bashrc
+ln -s /root/.bash_profile /home/m/.bash_profile
+ln -s /root.bash_aliases /home/m/.bash_aliases
+
+
